@@ -1,0 +1,8 @@
+# 个人数据：永远不要提交
+memory_local/profile.md
+memory_local/private/
+memory_local/cases/
+campaigns/
+__pycache__/
+*.pyc
+.DS_Store
